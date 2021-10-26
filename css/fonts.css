@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto/Roboto-Thin.ttf") format("truetype");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto/Roboto-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto/Roboto-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto/Roboto-Black.ttf") format("truetype");
+  font-weight: 900;
+}
+/* fonts icons */
+@font-face{
+  font-family: 'icon';
+  src: url('../fonts/webfonts/fa-solid-900.ttf') format('truetype');
+  font-weight: 900;
+}
+@font-face{
+  font-family: 'icon';
+  src: url('../fonts/webfonts/fa-brands-400.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face{
+  font-family: 'icon';
+  src: url('../fonts/webfonts/fa-regular-400.ttf') format('truetype');
+  font-weight: 400;
+}
